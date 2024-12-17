@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bo388672v6jdu"
+path="res://.godot/imported/BushOrangeFlowers.obj-d37fe5c7e90573b818d2815cb05ce2af.mesh"
+
+[deps]
+
+files=["res://.godot/imported/BushOrangeFlowers.obj-d37fe5c7e90573b818d2815cb05ce2af.mesh"]
+
+source_file="res://EnvironomentPackV_2/OBJ/BushOrangeFlowers.obj"
+dest_files=["res://.godot/imported/BushOrangeFlowers.obj-d37fe5c7e90573b818d2815cb05ce2af.mesh", "res://.godot/imported/BushOrangeFlowers.obj-d37fe5c7e90573b818d2815cb05ce2af.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
